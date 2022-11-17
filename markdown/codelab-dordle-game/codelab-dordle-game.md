@@ -345,8 +345,14 @@ Ok lets find out what is still missing,
 
 Tip: how can we change the state?
 
-## Next Steps
+## Takeaways
 
-![Soly Image Caption](img/soly.gif)
+Hope you had some fun creating this app!
+
+Thank you for participaging in this codelab!
+
+If you have any feedback, don't esitate and contact us, we welcome feedback :)
+
+![](img/logo.png)
 
 Thanks for participating in this codelab!
